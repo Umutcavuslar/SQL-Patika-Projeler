@@ -1,1 +1,1 @@
-# SQL-Patika-Projeler
+# SQL_Patika-Projeler
